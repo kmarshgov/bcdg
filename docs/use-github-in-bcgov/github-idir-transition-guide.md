@@ -2,7 +2,6 @@
 
 This transition guide offers more detailed information about IDIRs and GitHub changes as they relate to the GitHub SSO upgrade. 
 
-
 We published more about [the SSO upgrade](bc-government-organizations-in-github.md#single-sign-on-is-coming-to-the-bc-governments-github-organizations) on DevHub. 
 
 ## Completing authentication
@@ -13,7 +12,7 @@ GitHub doesn't offer users a verification of completition. There are 3 alternati
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-cfhUY_or8s?si=q0pjaxYd4FBhNZ0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-2) If users continue to have the "**Authenticate your account**" button on their dashboards, then linking hasn't been pending.
+2) If users **don't** have the "**Authenticate your account**" button on their dashboards, then linking is completed.
   
 3) Another way to check is to: 
 
