@@ -1,26 +1,8 @@
 # GitHub upgrade transition guide
 
-This transition guide offers more detailed information about IDIRs and GitHub changes as they relate to the GitHub SSO upgrade. 
+This transition guide offers more detailed information about IDIRs and GitHub changes as they relate to the GitHub SSO upgrade. Our technical transition guide helps GitHub users prepare for the upgrade, and confirms if users completed linking successfully.
 
 We published more about [the SSO upgrade](bc-government-organizations-in-github.md#single-sign-on-is-coming-to-the-bc-governments-github-organizations) on DevHub. 
-
-## Completing authentication
-
-GitHub doesn't offer users a verification of completition. There are 3 alternative ways to confirm completetion: 
-
-1) The video below shows the linking process from start to finish. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-cfhUY_or8s?si=q0pjaxYd4FBhNZ0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-2) If users **don't** have the "**Authenticate your account**" button on their dashboards, then linking is completed.
-  
-3) Another way to check is to: 
-
-    1) Go to your profile by clicking your avatar on the top right
-    2) Click "Settings"
-    3) Click "Enterprises"
-    4) Check if you're a member of "Government of British Columbia
-
 
 ## IDIRs
 
